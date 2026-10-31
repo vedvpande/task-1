@@ -1,0 +1,8 @@
+{
+  "medicines": [
+    { "id": 1, "name": "Vitamin D", "dose": "1 tablet", "time": "12:00" },
+    { "id": 2, "name": "Allergy syrup", "dose": "5 ml", "time": "08:00" },
+    { "id": 3, "name": "Iron tablet", "dose": "1 tablet", "time": "20:00" },
+    { "id": 4, "name": "Eye drops", "dose": "2 drops", "time": "09:30" }
+  ]
+}
